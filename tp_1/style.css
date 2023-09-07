@@ -1,0 +1,16 @@
+.toolbar-container{
+    background-color: aqua;
+}
+
+ion-footer {
+    position: fixed;
+    bottom: 0;
+}
+
+/* ion-header{
+    background-color: aqua;
+} */
+
+img{
+    width: 100%;
+}
